@@ -1,0 +1,42 @@
+﻿  monteCarlo_Sakovich.cpp
+C:\Users\Artem\source\repos\monteCarlo_Sakovich\monteCarlo_Sakovich.cpp(57,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Artem\source\repos\monteCarlo_Sakovich\monteCarlo_Sakovich.cpp(81,40): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Artem\source\repos\monteCarlo_Sakovich\monteCarlo_Sakovich.cpp(81,29): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Artem\source\repos\monteCarlo_Sakovich\monteCarlo_Sakovich.cpp(83,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Artem\source\repos\monteCarlo_Sakovich\monteCarlo_Sakovich.cpp(94,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Artem\source\repos\monteCarlo_Sakovich\monteCarlo_Sakovich.cpp(123,40): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Artem\source\repos\monteCarlo_Sakovich\monteCarlo_Sakovich.cpp(123,29): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Artem\source\repos\monteCarlo_Sakovich\monteCarlo_Sakovich.cpp(125,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Artem\source\repos\monteCarlo_Sakovich\monteCarlo_Sakovich.cpp(131,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Artem\source\repos\monteCarlo_Sakovich\monteCarlo_Sakovich.cpp(162,40): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Artem\source\repos\monteCarlo_Sakovich\monteCarlo_Sakovich.cpp(162,29): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Artem\source\repos\monteCarlo_Sakovich\monteCarlo_Sakovich.cpp(174,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Artem\source\repos\monteCarlo_Sakovich\monteCarlo_Sakovich.cpp(211,40): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Artem\source\repos\monteCarlo_Sakovich\monteCarlo_Sakovich.cpp(211,29): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Artem\source\repos\monteCarlo_Sakovich\monteCarlo_Sakovich.cpp(213,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Artem\source\repos\monteCarlo_Sakovich\monteCarlo_Sakovich.cpp(221,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Artem\source\repos\monteCarlo_Sakovich\monteCarlo_Sakovich.cpp(318,40): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Artem\source\repos\monteCarlo_Sakovich\monteCarlo_Sakovich.cpp(318,29): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Artem\source\repos\monteCarlo_Sakovich\monteCarlo_Sakovich.cpp(327,48): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Artem\source\repos\monteCarlo_Sakovich\monteCarlo_Sakovich.cpp(327,37): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Artem\source\repos\monteCarlo_Sakovich\monteCarlo_Sakovich.cpp(328,50): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Artem\source\repos\monteCarlo_Sakovich\monteCarlo_Sakovich.cpp(328,39): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Artem\source\repos\monteCarlo_Sakovich\monteCarlo_Sakovich.cpp(330,47): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Artem\source\repos\monteCarlo_Sakovich\monteCarlo_Sakovich.cpp(330,36): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Artem\source\repos\monteCarlo_Sakovich\monteCarlo_Sakovich.cpp(331,62): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Artem\source\repos\monteCarlo_Sakovich\monteCarlo_Sakovich.cpp(331,51): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Artem\source\repos\monteCarlo_Sakovich\monteCarlo_Sakovich.cpp(334,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Artem\source\repos\monteCarlo_Sakovich\monteCarlo_Sakovich.cpp(338,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Artem\source\repos\monteCarlo_Sakovich\monteCarlo_Sakovich.cpp(424,40): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Artem\source\repos\monteCarlo_Sakovich\monteCarlo_Sakovich.cpp(424,29): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Artem\source\repos\monteCarlo_Sakovich\monteCarlo_Sakovich.cpp(432,48): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Artem\source\repos\monteCarlo_Sakovich\monteCarlo_Sakovich.cpp(432,37): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Artem\source\repos\monteCarlo_Sakovich\monteCarlo_Sakovich.cpp(433,50): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Artem\source\repos\monteCarlo_Sakovich\monteCarlo_Sakovich.cpp(433,39): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Artem\source\repos\monteCarlo_Sakovich\monteCarlo_Sakovich.cpp(435,47): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Artem\source\repos\monteCarlo_Sakovich\monteCarlo_Sakovich.cpp(435,36): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Artem\source\repos\monteCarlo_Sakovich\monteCarlo_Sakovich.cpp(436,62): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Artem\source\repos\monteCarlo_Sakovich\monteCarlo_Sakovich.cpp(436,51): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Artem\source\repos\monteCarlo_Sakovich\monteCarlo_Sakovich.cpp(439,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Artem\source\repos\monteCarlo_Sakovich\monteCarlo_Sakovich.cpp(443,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  monteCarlo_Sakovich.vcxproj -> C:\Users\Artem\source\repos\monteCarlo_Sakovich\Debug\monteCarlo_Sakovich.exe
